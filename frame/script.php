@@ -1,0 +1,1 @@
+<script src="/resources/custom/js/script.js"></script>
